@@ -1,0 +1,11 @@
+{ 
+  "token": "YOUR TOKEN",
+  "name": "BOT NAME",
+  "framework": "Blastoff Framework v3.5",
+  "icon": "BOT ICON URL",
+  "fwver": "3.5",
+  "client-id": "BOT CLIENT ID",
+  "prefix": "BOT PREFIX",
+  "owners": "YOUR USER ID",
+  "logs": "LOG CHANNEL ID" 
+}

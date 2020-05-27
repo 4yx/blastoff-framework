@@ -26,4 +26,4 @@ Blastoff is built from scratch, meaning hard work. We ask that you leave the fra
  Do NOT edit the Framework Name or FWVER, unless you have changed the bot so it isnt recognizable as Blastoff. 
  (Please DM Tomas#9284 so we can check it out for you)
  
- ## More information to be provided soon
+ ### More information to be provided soon

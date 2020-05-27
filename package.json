@@ -1,0 +1,28 @@
+{
+  "name": "TomasBOT-Rewritten",
+  "version": "3.9.1",
+  "description": "Bot",
+  "main": "node index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "8.4.0"
+  },
+  "author": "Tomas North",
+  "license": "GNU Public License v3",
+  "bugs": {
+    "url": "http://nosi.uk"
+  },
+  "homepage": "",
+  "dependencies": {
+    "express": "^4.17.1",
+    "random-puppy": "^1.1.0",
+    "file-system": "^2.2.2",
+    "log-symbols": "^4.0.0",
+    "got": "^11.1.4",
+    "ytdl": "^1.3.0",
+    "discord.js": "^11.6.4"
+  }
+}

@@ -1,7 +1,3 @@
----
-description: Blastoff is licensed under GNU Public License v3.
----
-
 # Open-Source / License
 
 Blastoff is licensed as open source. Specifically, under the GNU Public License \(v3\). You can read the license by clicking [here](https://www.gnu.org/licenses/gpl-3.0.en.html).

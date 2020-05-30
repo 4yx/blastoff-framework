@@ -1,9 +1,3 @@
----
-description: >-
-  Learn how to run Blastoff through your bot, customize it & add commands to the
-  framework.
----
-
 # Welcome to Blastoff.
 
 Welcome to our guide site for Blastoff. This is where you can get help, read tutorials or learn more about the framework, and how you can run your own super customized bot.  

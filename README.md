@@ -1,31 +1,18 @@
-# Blastoff Discord Bot
-A modular &amp; easy-to-use Discord bot framework.
+---
+description: >-
+  Learn how to run Blastoff through your bot, customize it & add commands to the
+  framework.
+---
 
-### We ask that you read below, and to avoid getting questioned for not leaving the correct credits.
+# Welcome to Blastoff.
 
-Blastoff is an easy to setup bot. It can be used with Glitch, and will be simpler to setup on there. Blastoff includes many commands, all situated in a command handler, which makes it easier to include more commands, by just adding your code into a file.
+Welcome to our guide site for Blastoff. This is where you can get help, read tutorials or learn more about the framework, and how you can run your own super customized bot.
 
-## Open Source License
-Blastoff is built from scratch, meaning hard work. We ask that you leave the framework settings in the config file, which leaves us credit for the work we did. If we find that you have not left credit, you will be questioned on that course. To not leave credit, you need to edit the bot to a satifactory amount so it does not resemble the original source code. We ask that you respect and follow this statement.
+Blastoff functions like a 'reseller'. We provide the framework, and you customize the bot to gain more users. 
 
-## Setup Guide
-1) Go onto the Glitch website and create an account.
-2) When you return to the homepage, you should see a '+' symbol yn the corner.
-3) Click on the '+' and then choose 'Import from GitHub'.
-4) When prompted to choose a repository, enter "GIT URL"
-5) When the file is loaded, head over to the 'config.json' file.
-6) Within the 'config.json' file, add the following information:
- - Bot Token
- - Bot Name
- - Bot Icon URL
- - Bot Client ID (MAKE SURE TO INCLUDE FOR BOT INVITE LINKS TO WORK)
- - Bot Prefix
- - Owner (you)'s ID
- - Logging channel ID (Hub Server)
- - Discord Support Server (MAKE SURE TO INCLUDE FOR SUPPORT SERVER LINKS ON INFO COMMANDS!)
- 
- 
- Do NOT edit the Framework Name or FWVER, unless you have changed the bot so it isnt recognizable as Blastoff. 
- (Please DM Tomas#9284 so we can check it out for you)
- 
- ### More information to be provided soon
+Blastoff is open source, which makes it simple to edit and change stuff. If you plan on doing that - checkout the[ Open-Source page](setup/open-source-license.md).  
+
+
+Looking to run an instance of Blastoff? Checkout the [Setup page](setup/setup-blastoff.md).  
+Looking for information about our commands? Visit the [Command](commands/untitled.md) section.
+

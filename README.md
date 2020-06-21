@@ -1,4 +1,5 @@
 # Welcome to Blastoff.
+https://forthebadge.com/images/badges/built-with-love.svg
 
 Learn about how to setup the bot here: https://app.gitbook.com/@blastoff/s/blastoff-js-framework
 
